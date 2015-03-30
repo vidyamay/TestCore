@@ -17,6 +17,10 @@
            <programs>
                 <program>
                     <mainClass>com.main.HelloWorld</mainClass>
+                    <name>onerun</name>
+                </program>
+                  <program>
+                    <mainClass>com.main.WorkerMain</mainClass>
                     <name>worker</name>
                 </program>
           </programs>
